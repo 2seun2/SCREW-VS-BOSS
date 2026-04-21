@@ -1,7 +1,5 @@
-streamlit
+streamlit>=1.30.0
 pandas
 numpy
 matplotlib
-scipy
-pip install streamlit pandas numpy matplotlib seaborn
-streamlit run app.py
+seaborn
